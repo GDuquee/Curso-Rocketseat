@@ -1,0 +1,12 @@
+/*
+As Tags funcionam da seguinte forma:
+
+Você faz a abertura delas, coloca o nome da Tag e as fecha como no exemplo. No caso dessa Tag, seu conteúdo é a de título, juntando a abertura, fechamento e o conteúdo, teremos um Elemento HTML.
+
+Há também Elementos vazios que diferente do exemplo acima não se fecha daquela forma, mas assim:
+
+Essa sendo para imagem possuindo atributos, que veremos mais tarde seu funcionamento. 
+*/
+<h1> TÍTULO </h1>
+
+<img src=" " alt=" ">
