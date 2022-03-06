@@ -1,0 +1,28 @@
+<!--
+    Listas 
+    -ordenadas
+    -não ordenadas
+-->
+
+<h1>Suco Detox</h1>
+<h2>Ingredientes:</h2>
+
+<ol>
+
+    <li>3folhas de couve</li>
+    <li>1 laranja</li>
+    <li>1 pedacinho gengibre</li>
+    <li>300 ml de água</li>
+    <li>Adoçante</li>
+    <li>Gelo a gosto</li>
+
+</ol>
+
+<ul>
+    <li>3folhas de couve</li>
+    <li>1 laranja</li>
+    <li>1 pedacinho gengibre</li>
+    <li>300 ml de água</li>
+    <li>Adoçante</li>
+    <li>Gelo a gosto</li>
+</ul>
