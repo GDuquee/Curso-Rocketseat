@@ -1,0 +1,23 @@
+<!--
+    Vamos Praticar
+
+    Escrever 2 parágrafos, 
+    dando ênfase e importância para algumas palavras,
+     e adicione um link de saiba mais.
+
+     - use a tag em para ênfase
+     - use a tag strong para importância
+     - o link pode levar para o gooogle
+-->
+
+<h1>Primeiro Exercício</h1>
+
+<p>
+    Estudando bastante para me especializar na área de <em>Front End</em> dentro da área de TI
+</p>
+
+<P>
+    Ter <strong>Foco</strong> e <strong>Disciplina</strong> é essêncial para chegar em uma carreira de sucesso.
+</P>
+
+<a href="https://www.google.com.br">Como ter o controle da sua mente para estudos</a>
